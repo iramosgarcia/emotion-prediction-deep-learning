@@ -20,4 +20,11 @@ As it can be seen is a fully-convolutional neural network consisting of 2 convol
 
 The Jupyter Notebook used in Google Colab, can be found [CNN_implementation.ipynb](CNN_implementation.ipynb)
 
+Some techniques to avoid overfitting are applied, such as early-stopping and data-augmentation. For a better understanding visit this [article]().
+
+## Conclusions
+
+We obtained an accuracy of *70.87 %*  in Train set and a Test accuracy of *63.026 %*. Furthermore, the confusion matrix is represented. Confusion matrix is also known as error matrix in statistical field, due to the fact that it represents the performance of an algorithm.
+
+![DConfusion matrix](Images/iconfusion_matrix.png)
 
