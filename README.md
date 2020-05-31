@@ -26,5 +26,5 @@ Some techniques to avoid overfitting are applied, such as early-stopping and dat
 
 We obtained an accuracy of *70.87 %*  in Train set and a Test accuracy of *63.026 %*. Furthermore, the confusion matrix is represented. Confusion matrix is also known as error matrix in statistical field, due to the fact that it represents the performance of an algorithm.
 
-![DConfusion matrix](Images/iconfusion_matrix.png)
+![Confusion matrix](Images/confusion_matrix.png)
 
